@@ -1,0 +1,39 @@
+body {
+  margin-top: 56px !important ;
+}
+
+.content {
+  margin-top: 10rem;
+}
+
+h1 {
+  font-family: "Playfair Display" !important;
+  font-size: 4rem !important;
+  font-weight: 700 !important;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700 !important;
+}
+.contact-box {
+  background-color: #f9f7fe;
+}
+.contact-box h3 {
+  font-family: "Playfair Display", serif;
+  font-size: 3rem !important;
+}
+
+.social:hover {
+  background-color: rgb(46, 46, 248);
+  color: white;
+}
+.social {
+  padding: 1rem;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background-color: rgb(247, 247, 254);
+}
